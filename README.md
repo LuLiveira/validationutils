@@ -1,4 +1,4 @@
-# validationutils
+# Biblioteca Auxiliar
 Biblioteca externa com metodos uteis para aplicacoes pessoais
 
 
